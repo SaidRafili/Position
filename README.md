@@ -1,4 +1,3 @@
-# Position
 
 <h1> Distant Təhsil Tapşırığı </h1>
 
