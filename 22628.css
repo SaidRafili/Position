@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+
+.elements {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin:0px;
+}
+
+.element {
+    display: inline-block;
+    position: static;
+    word-wrap: break-word;
+    border: solid #E1E1E1 1px;
+    width: 297px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: Source Sans Pro;
+}
+
+.paragraph {
+    margin-left: 10px;
+    font-size: 140%;
+    color: #13317F;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+}
+
+
+.option {
+    width: 297px;
+    height:40x;
+    border: solid #E1E1E1 1px;
+    border-top:solid #CBCBCB 2px;
+    display:inline-block;
+    margin-left: 20px;
+    background-color: #F2F2F2;
+}
+
+.buttons{
+    display: inline-block;
+    width: 96px;
+    height: 40px;
+}
+
+#button_like:hover {
+    background-color: green;
+}
+
+#button_dislike:hover {
+    background-color: red;
+}
+
